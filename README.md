@@ -1,0 +1,2 @@
+# Extended-Java-Lab-Assignment-Tip-Calculator-and-Change-Calculator
+Mastered GUI development and enumerations in the Extended Java Lab Assignment. Created a Tip Calculator with error handling using Swing, and implemented a Change Calculator with a TreeMap and customized Comparator. Showcased strong skills in intuitive interface design and efficient use of Java libraries for optimal user experience.
